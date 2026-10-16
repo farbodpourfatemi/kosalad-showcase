@@ -24,7 +24,7 @@ Next.js · React · TypeScript · Tailwind CSS · Supabase
 
 ## Authorship & development
 
-Created by **[Farbod Pourfatemi](https://github.com/farbodpourfatemi2000-commits)**, a student interested in programming, AI, and medical sciences. I built this website with assistance from ChatGPT.
+Created by **[Farbod Pourfatemi](https://github.com/farbodpourfatemi)**, a student interested in programming, AI, and medical sciences. I built this website with assistance from ChatGPT.
 
 ## About this repository
 
